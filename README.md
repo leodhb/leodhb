@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estudando **VUE.JS** e **React.JS**
 
-- 👯 I’m looking to collaborate on **instagram.**
+- 👯 Pretendo colaborar em **Projetos web de grande escala.**
 
 - 💬 Pergunte-me sobre **#JS #PHP #CSS #HTML**
 
