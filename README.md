@@ -16,11 +16,11 @@
 - ⚡ Fun fact: **Minha linguagem preferida é C**
 
 <p align="center">
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Converse comigo:</h3>
 </p>
 
-<p align="center">  <a href="https://linkedin.com/in/agamkoradiya" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="agamkoradiya" height="30" width="40" /></a>
-<a href="https://instagram.com/code.fun" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="code.fun" height="30" width="40" /></a></p>
+<p align="center">  <a href="https://www.linkedin.com/in/henrique-barbosa-46579117a/" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="agamkoradiya" height="30" width="40" /></a>
+<a href="https://instagram.com/leod.in" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="code.fun" height="30" width="40" /></a></p>
 
 <h3 align="center">Linguagens e ferramentas:</h3>
 
