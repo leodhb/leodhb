@@ -5,7 +5,7 @@
 
 - 🔭 Estou atualmente trabalhando na <a href="https://flocks.tv">**FLOCKS.**</a>
 
-- 🌱 Atualmente estudando **VUE.JS** e **React.JS**
+- 🌱 Atualmente estudando **VUE.JS** e **Laravel**
 
 - 👯 Pretendo colaborar em **Projetos web de grande escala.**
 
