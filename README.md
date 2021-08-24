@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leodhb" alt="leodhb" /> </p>
 
-- 🔭 Estou atualmente trabalhando na <a href="https://flocks.tv">**FLOCKS.**</a>
+- 🔭 Estou atualmente trabalhando na <a href="https//bxblue.com.br">**BXBLUE**</a>.
 
 - 🌱 Atualmente estudando **VUE.JS** e **Laravel**
 
