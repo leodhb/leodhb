@@ -1,5 +1,10 @@
+### Hi there 👋, 
 
-# Hi there, I'm Henrique Barbosa (Aka Leod) <img width="50px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
+I'm Henrique Barbosa (a.k.a Leod), Software Engineer and Rubyist 💎.
 
-- 👨🏼‍💻 I’m a Full-Stack Developer currently working at BxBlue. You can view more about my experience on my [LinkedIn Profile](https://www.linkedin.com/in/henrique-barbosa-46579117a/) if you want =)
-- 🤙🏼 I’m currently fucused on evolve my knowledge and improve my skills
+- :office: I’m currently working at [RibonDAO](https://github.com/RibonDAO). 
+
+- 📫 How to reach me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Henrique%20Barbosa-blue)](https://www.linkedin.com/in/leodhb/)
+[![Medium Badge](https://img.shields.io/badge/Medium-Henrique%20Barbosa-white)](https://medium.com/@leodhb)
