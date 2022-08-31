@@ -2,6 +2,8 @@
 
 I'm Henrique Barbosa (a.k.a Leod), Software Engineer and Rubyist 💎.
 
+I was born and raised in Alagoas (Northeast of Brazil) but I'm living in Rio de Janeiro now :brazil: .
+
 - :office: I’m currently working at [RibonDAO](https://github.com/RibonDAO). 
 
 - 📫 How to reach me: 
